@@ -1,0 +1,3 @@
+vhdtdtfi -lib work C:/Users/asus/Desktop/ISE/counter/AndGate.v -lang verilog -prj counter -o AndGate.spl -module AndGate -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family artix7 AndGate.spl C:/Users/asus/Desktop/ISE/counter/AndGate.sym 
+vhdtdtfi -lang verilog -prj counter -o C:/Users/asus/Desktop/ISE/counter/AndGate.tfi -lib work C:/Users/asus/Desktop/ISE/counter//AndGate.v -module AndGate -template C:/Xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 

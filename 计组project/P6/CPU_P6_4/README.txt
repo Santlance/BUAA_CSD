@@ -1,0 +1,2 @@
+之前版本没有在ALU加AND XOR等操作
+补上了ALU的缺漏，和加了SLT SLTI SLTU SLTIU

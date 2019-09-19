@@ -1,0 +1,5 @@
+verilog isim_temp "MUX.v"
+verilog isim_temp "CONTROLLER.v"
+verilog isim_temp "PIPELINE_E.v"
+verilog isim_temp "MULTDIV_test.v"
+verilog isim_temp "C:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v"

@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "C:/Users/asus/Desktop/ISE/P2_rewrite/fsm_text_isim_beh.exe" -prj "C:/Users/asus/Desktop/ISE/P2_rewrite/fsm_text_beh.prj" "work.fsm_text" "work.glbl" 

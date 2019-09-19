@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "C:/Users/asus/Desktop/ISE/sec_counter/hh_isim_beh.exe" -prj "C:/Users/asus/Desktop/ISE/sec_counter/hh_beh.prj" "work.hh" "work.glbl" 

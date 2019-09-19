@@ -1,0 +1,13 @@
+[Inputs]
+a1
+a0
+b1
+b0
+[Outputs]
+s1
+s0
+Carry
+[BiDir]
+[ATTRIBUTES]
+VeriModel ternary_half_adder
+

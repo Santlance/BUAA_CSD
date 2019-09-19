@@ -1,0 +1,29 @@
+Command line:
+   ternary_half_adder_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  59821
+
+Sun Oct 21 15:55:58 2018
+
+
+ Elaboration Time: 0.09375 sec
+
+ Current Memory Usage: 5336.25 Meg
+
+ Total Signals          : 20
+ Total Nets             : 20
+ Total Signal Drivers   : 8
+ Total Blocks           : 2
+ Total Primitive Blocks : 2
+ Total Processes        : 9
+ Total Traceable Variables  : 18
+ Total Scalar Nets and Variables : 100
+Total Line Count : 17
+
+ Total Simulation Time: 0.15625 sec
+
+ Current Memory Usage: 5336.25 Meg
+
+Sun Oct 21 15:56:08 2018
+

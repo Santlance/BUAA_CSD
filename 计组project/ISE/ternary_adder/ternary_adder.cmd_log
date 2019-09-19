@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "C:/Users/asus/Desktop/ISE/ternary_adder/ternary_adder.xst" -ofn "C:/Users/asus/Desktop/ISE/ternary_adder/ternary_adder.syr" 

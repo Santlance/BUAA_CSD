@@ -1,0 +1,15 @@
+
+
+
+// Instantiate the module
+ternary_half_adder instance_name (
+    .a1(a1), 
+    .a0(a0), 
+    .b1(b1), 
+    .b0(b0), 
+    .s1(s1), 
+    .s0(s0), 
+    .Carry(Carry)
+    );
+
+

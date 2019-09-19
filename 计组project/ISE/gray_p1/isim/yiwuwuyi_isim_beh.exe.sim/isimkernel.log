@@ -1,0 +1,29 @@
+Command line:
+   yiwuwuyi_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  49872
+
+Sun Oct 28 10:03:58 2018
+
+
+ Elaboration Time: 0.078125 sec
+
+ Current Memory Usage: 5335.67 Meg
+
+ Total Signals          : 18
+ Total Nets             : 20
+ Total Signal Drivers   : 10
+ Total Blocks           : 3
+ Total Primitive Blocks : 2
+ Total Processes        : 15
+ Total Traceable Variables  : 24
+ Total Scalar Nets and Variables : 110
+Total Line Count : 43
+
+ Total Simulation Time: 0.28125 sec
+
+ Current Memory Usage: 5178.38 Meg
+
+Sun Oct 28 10:22:12 2018
+

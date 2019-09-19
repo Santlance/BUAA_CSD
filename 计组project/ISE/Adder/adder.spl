@@ -1,0 +1,12 @@
+[Inputs]
+Clk
+En
+=A[3:0]=
+=B[3:0]=
+[Outputs]
+Overflow
+=Sum[3:0]=
+[BiDir]
+[ATTRIBUTES]
+VeriModel adder
+

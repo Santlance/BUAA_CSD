@@ -1,0 +1,4 @@
+vhdtdtfi -lib work C:/Users/asus/Desktop/ISE/id_fsm/ternary_half_adder.v -lang verilog -prj id_fsm -o ternary_half_adder.spl -module ternary_half_adder -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family artix7 ternary_half_adder.spl C:/Users/asus/Desktop/ISE/id_fsm/ternary_half_adder.sym 
+vhdtdtfi -lang verilog -prj id_fsm -o C:/Users/asus/Desktop/ISE/id_fsm/ternary_half_adder.tfi -lib work C:/Users/asus/Desktop/ISE/id_fsm//ternary_half_adder.v -module ternary_half_adder -template C:/Xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 
+vhdtdtfi -lang verilog -prj id_fsm -o C:/Users/asus/Desktop/ISE/id_fsm/ternary_half_adder.tfi -lib work C:/Users/asus/Desktop/ISE/id_fsm//ternary_half_adder.v -module ternary_half_adder -template C:/Xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 

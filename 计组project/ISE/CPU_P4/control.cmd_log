@@ -1,0 +1,3 @@
+vhdtdtfi -lib work C:/Users/asus/Desktop/ISE/CPU_P4/control.v -lang verilog -prj CPU_P4 -o control.spl -module control -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family artix7 control.spl C:/Users/asus/Desktop/ISE/CPU_P4/control.sym 
+vhdtdtfi -lang verilog -prj CPU_P4 -o C:/Users/asus/Desktop/ISE/CPU_P4/control.tfi -lib work C:/Users/asus/Desktop/ISE/CPU_P4//control.v -module control -template C:/Xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 

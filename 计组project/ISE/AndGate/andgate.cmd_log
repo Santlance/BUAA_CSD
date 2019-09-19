@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "C:/Users/asus/Desktop/ISE/AndGate/andgate.xst" -ofn "C:/Users/asus/Desktop/ISE/AndGate/andgate.syr" 

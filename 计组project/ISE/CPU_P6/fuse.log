@@ -1,0 +1,61 @@
+Running: fuse.exe -relaunch -intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "C:/Users/asus/Desktop/ISE/CPU_P6/mips_test_isim_beh.exe" -prj "C:/Users/asus/Desktop/ISE/CPU_P6/mips_test_beh.prj" "work.mips_test" "work.glbl" 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Analyzing Verilog file "C:/Users/asus/Desktop/ISE/CPU_P6/MUX.v" into library work
+Analyzing Verilog file "C:/Users/asus/Desktop/ISE/CPU_P6/DECODER_T.v" into library work
+Analyzing Verilog file "C:/Users/asus/Desktop/ISE/CPU_P6/CONTROLLER.v" into library work
+Analyzing Verilog file "C:/Users/asus/Desktop/ISE/CPU_P6/REGISTER.v" into library work
+Analyzing Verilog file "C:/Users/asus/Desktop/ISE/CPU_P6/PIPELINE_W.v" into library work
+Analyzing Verilog file "C:/Users/asus/Desktop/ISE/CPU_P6/PIPELINE_M.v" into library work
+Analyzing Verilog file "C:/Users/asus/Desktop/ISE/CPU_P6/PIPELINE_F.v" into library work
+Analyzing Verilog file "C:/Users/asus/Desktop/ISE/CPU_P6/PIPELINE_E.v" into library work
+WARNING:HDLCompiler:751 - "C:/Users/asus/Desktop/ISE/CPU_P6/PIPELINE_E.v" Line 40: Redeclaration of ansi port Start is not allowed
+Analyzing Verilog file "C:/Users/asus/Desktop/ISE/CPU_P6/PIPELINE_D.v" into library work
+Analyzing Verilog file "C:/Users/asus/Desktop/ISE/CPU_P6/HAZARDUNIT.v" into library work
+Analyzing Verilog file "C:/Users/asus/Desktop/ISE/CPU_P6/mips.v" into library work
+Analyzing Verilog file "C:/Users/asus/Desktop/ISE/CPU_P6/mips_test.v" into library work
+Analyzing Verilog file "C:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling module IM
+Compiling module IFU
+Compiling module MUX_2_1_32
+Compiling module PIPELINE_F
+Compiling module REGISTER_D
+Compiling module GRF
+Compiling module EXT
+Compiling module NPC
+Compiling module CMP
+Compiling module CONTROLLER_D
+Compiling module MUX_4_1_32
+Compiling module PIPELINE_D
+Compiling module REGISTER_E
+Compiling module ALU
+Compiling module CONTROLLER_E
+Compiling module MULTDIVPART
+Compiling module MUX_4_1_5
+Compiling module PIPELINE_E
+Compiling module REGISTER_M
+Compiling module DM
+Compiling module StoreBE
+Compiling module CONTROLLER_M
+Compiling module PIPELINE_M
+Compiling module REGISTER_W
+Compiling module CONTROLLER_W
+Compiling module LoadBE
+Compiling module PIPELINE_W
+Compiling module DECODER_Tnew_E
+Compiling module DECODER_Tnew_M
+Compiling module HAZARDUNIT
+Compiling module mips
+Compiling module mips_test
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Waiting for 26 sub-compilation(s) to finish...
+WARNING:Simulator - Unable to copy libPortabilityNOSH.dll to the simulation executable directory: boost::filesystem::copy_file: 系统找不到指定的路径。, "isim\mips_test_isim_beh.exe.sim\libPortability.dll".
+Compiled 33 Verilog Units
+Built simulation executable C:/Users/asus/Desktop/ISE/CPU_P6/mips_test_isim_beh.exe
+Fuse Memory Usage: 35024 KB
+Fuse CPU Usage: 1109 ms

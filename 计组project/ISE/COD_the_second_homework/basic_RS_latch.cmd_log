@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "C:/Users/asus/Desktop/ISE/COD_the_second_homework/basic_RS_latch.xst" -ofn "C:/Users/asus/Desktop/ISE/COD_the_second_homework/basic_RS_latch.syr" 
+xst -intstyle ise -ifn "C:/Users/asus/Desktop/ISE/COD_the_second_homework/basic_RS_latch.xst" -ofn "C:/Users/asus/Desktop/ISE/COD_the_second_homework/basic_RS_latch.syr" 

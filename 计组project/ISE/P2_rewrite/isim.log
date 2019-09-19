@@ -1,0 +1,115 @@
+ISim log file
+Running: C:\Users\asus\Desktop\ISE\P2_rewrite\fsm_text_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb C:/Users/asus/Desktop/ISE/P2_rewrite/fsm_text_isim_beh.wdb 
+ISim P.20131013 (signature 0x7708f090)
+WARNING: A WEBPACK license was found.
+WARNING: Please use Xilinx License Configuration Manager to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+Time resolution is 1 ps
+# onerror resume
+# wave add /
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+ISim P.20131013 (signature 0x7708f090)
+WARNING: A WEBPACK license was found.
+WARNING: Please use Xilinx License Configuration Manager to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+ISim P.20131013 (signature 0x7708f090)
+WARNING: A WEBPACK license was found.
+WARNING: Please use Xilinx License Configuration Manager to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+ISim P.20131013 (signature 0x7708f090)
+WARNING: A WEBPACK license was found.
+WARNING: Please use Xilinx License Configuration Manager to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+ISim P.20131013 (signature 0x7708f090)
+WARNING: A WEBPACK license was found.
+WARNING: Please use Xilinx License Configuration Manager to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+# run 1.00us
+Stopped at time : 1010 ns : File "C:/Users/asus/Desktop/ISE/P2_rewrite/fsm_text.v" Line 72
+# run 1.00us
+Stopped at time : 1010 ns : File "C:/Users/asus/Desktop/ISE/P2_rewrite/fsm_text.v" Line 72
+# run 1.00us
+Stopped at time : 1020 ns : File "C:/Users/asus/Desktop/ISE/P2_rewrite/fsm_text.v" Line 72
+# step
+Stopped at time : 1020 ns : File "C:/Users/asus/Desktop/ISE/P2_rewrite/fsm_text.v" Line 72
+# step
+Stopped at time : 1030 ns : File "C:/Users/asus/Desktop/ISE/P2_rewrite/fsm_text.v" Line 72
+# step
+Stopped at time : 1030 ns : File "C:/Users/asus/Desktop/ISE/P2_rewrite/fsm_text.v" Line 72
+# step
+Stopped at time : 1030 ns : File "C:/Users/asus/Desktop/ISE/P2_rewrite/fsm.v" Line 29
+# step
+Stopped at time : 1030 ns : File "C:/Users/asus/Desktop/ISE/P2_rewrite/fsm.v" Line 30
+# step
+Stopped at time : 1030 ns : File "C:/Users/asus/Desktop/ISE/P2_rewrite/fsm.v" Line 36
+# step
+Stopped at time : 1030 ns : File "C:/Users/asus/Desktop/ISE/P2_rewrite/fsm.v" Line 37
+# step
+Stopped at time : 1030 ns : File "C:/Users/asus/Desktop/ISE/P2_rewrite/fsm.v" Line 78
+# step
+Stopped at time : 1030 ns : File "C:/Users/asus/Desktop/ISE/P2_rewrite/fsm.v" Line 79
+# step
+Stopped at time : 1030 ns : File "C:/Users/asus/Desktop/ISE/P2_rewrite/fsm.v" Line 85
+# step
+Stopped at time : 1030 ns : File "C:/Users/asus/Desktop/ISE/P2_rewrite/fsm.v" Line 86
+# step
+Stopped at time : 1030 ns : File "C:/Users/asus/Desktop/ISE/P2_rewrite/fsm.v" Line 87
+# step
+Stopped at time : 1030 ns : File "C:/Users/asus/Desktop/ISE/P2_rewrite/fsm.v" Line 28
+# step
+Stopped at time : 1040 ns : File "C:/Users/asus/Desktop/ISE/P2_rewrite/fsm_text.v" Line 72
+# step
+Stopped at time : 1040 ns : File "C:/Users/asus/Desktop/ISE/P2_rewrite/fsm_text.v" Line 72
+# step
+Stopped at time : 1050 ns : File "C:/Users/asus/Desktop/ISE/P2_rewrite/fsm_text.v" Line 72
+# step
+Stopped at time : 1050 ns : File "C:/Users/asus/Desktop/ISE/P2_rewrite/fsm_text.v" Line 72
+# step
+Stopped at time : 1050 ns : File "C:/Users/asus/Desktop/ISE/P2_rewrite/fsm.v" Line 29
+# step
+Stopped at time : 1050 ns : File "C:/Users/asus/Desktop/ISE/P2_rewrite/fsm.v" Line 30
+# step
+Stopped at time : 1050 ns : File "C:/Users/asus/Desktop/ISE/P2_rewrite/fsm.v" Line 36
+# step
+Stopped at time : 1050 ns : File "C:/Users/asus/Desktop/ISE/P2_rewrite/fsm.v" Line 37
+# step
+Stopped at time : 1050 ns : File "C:/Users/asus/Desktop/ISE/P2_rewrite/fsm.v" Line 78
+# step
+Stopped at time : 1050 ns : File "C:/Users/asus/Desktop/ISE/P2_rewrite/fsm.v" Line 79
+# step
+Stopped at time : 1050 ns : File "C:/Users/asus/Desktop/ISE/P2_rewrite/fsm.v" Line 85
+# step
+Stopped at time : 1050 ns : File "C:/Users/asus/Desktop/ISE/P2_rewrite/fsm.v" Line 86
+# step
+Stopped at time : 1050 ns : File "C:/Users/asus/Desktop/ISE/P2_rewrite/fsm.v" Line 87
+# step
+Stopped at time : 1050 ns : File "C:/Users/asus/Desktop/ISE/P2_rewrite/fsm.v" Line 28
+# step
+Stopped at time : 1060 ns : File "C:/Users/asus/Desktop/ISE/P2_rewrite/fsm_text.v" Line 72
+# step
+Stopped at time : 1060 ns : File "C:/Users/asus/Desktop/ISE/P2_rewrite/fsm_text.v" Line 72
+# step
+Stopped at time : 1070 ns : File "C:/Users/asus/Desktop/ISE/P2_rewrite/fsm_text.v" Line 72
+# step
+Stopped at time : 1070 ns : File "C:/Users/asus/Desktop/ISE/P2_rewrite/fsm_text.v" Line 72
+# step
+Stopped at time : 1070 ns : File "C:/Users/asus/Desktop/ISE/P2_rewrite/fsm.v" Line 29

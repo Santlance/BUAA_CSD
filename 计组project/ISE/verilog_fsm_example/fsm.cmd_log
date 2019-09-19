@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "C:/Users/asus/Desktop/ISE/verilog_fsm_example/fsm.xst" -ofn "C:/Users/asus/Desktop/ISE/verilog_fsm_example/fsm.syr" 

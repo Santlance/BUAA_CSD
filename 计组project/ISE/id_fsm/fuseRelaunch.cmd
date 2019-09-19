@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "C:/Users/asus/Desktop/ISE/id_fsm/ternary_half_adder_isim_beh.exe" -prj "C:/Users/asus/Desktop/ISE/id_fsm/ternary_half_adder_beh.prj" "work.ternary_half_adder" "work.glbl" 

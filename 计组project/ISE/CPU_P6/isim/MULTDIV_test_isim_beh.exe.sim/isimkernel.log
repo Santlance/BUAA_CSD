@@ -1,0 +1,29 @@
+Command line:
+   MULTDIV_test_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  64244
+
+Mon Dec 17 21:19:31 2018
+
+
+ Elaboration Time: 0.078125 sec
+
+ Current Memory Usage: 5335.61 Meg
+
+ Total Signals          : 23
+ Total Nets             : 149
+ Total Signal Drivers   : 14
+ Total Blocks           : 3
+ Total Primitive Blocks : 2
+ Total Processes        : 18
+ Total Traceable Variables  : 27
+ Total Scalar Nets and Variables : 368
+Total Line Count : 61
+
+ Total Simulation Time: 0.203125 sec
+
+ Current Memory Usage: 4706.46 Meg
+
+Mon Dec 17 22:45:23 2018
+

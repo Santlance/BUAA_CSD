@@ -1,0 +1,21 @@
+
+
+
+// Instantiate the module
+control instance_name (
+    .OpCode(OpCode), 
+    .Func(Func), 
+    .Jr(Jr), 
+    .Jal(Jal), 
+    .Jump(Jump), 
+    .RegDst(RegDst), 
+    .nPC_sel(nPC_sel), 
+    .MemtoReg(MemtoReg), 
+    .MemWrite(MemWrite), 
+    .ALUSrc(ALUSrc), 
+    .RegWrite(RegWrite), 
+    .EXTOp(EXTOp), 
+    .ALUctr(ALUctr)
+    );
+
+

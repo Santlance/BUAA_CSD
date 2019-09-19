@@ -1,0 +1,180 @@
+ISim log file
+Running: C:\Users\asus\Desktop\ISE\CPU_P5\mips_test_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb C:/Users/asus/Desktop/ISE/CPU_P5/mips_test_isim_beh.wdb 
+ISim P.20131013 (signature 0x7708f090)
+WARNING: A WEBPACK license was found.
+WARNING: Please use Xilinx License Configuration Manager to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+Time resolution is 1 ps
+# onerror resume
+# wave add /
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+                  90@00003000: $ 8 <= 00001234
+                 110@00003004: $ 9 <= 00000001
+                 130@00003008: $31 <= 00003010
+                 170@00003014: $ 9 <= ffffedcd
+                 230@0000301c: $11 <= 00003010
+                 250@00003020: $25 <= 0000eeee
+                 270@00003024: $25 <= 00006666
+ISim P.20131013 (signature 0x7708f090)
+WARNING: A WEBPACK license was found.
+WARNING: Please use Xilinx License Configuration Manager to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+                  90@00003000: $ 8 <= 00001234
+                 110@00003004: $ 9 <= 00000001
+                 130@00003008: $31 <= 00003010
+                 170@00003014: $ 9 <= ffffedcd
+                 230@0000301c: $11 <= 00003010
+                 250@00003020: $25 <= 0000eeee
+                 270@00003024: $25 <= 00006666
+ISim P.20131013 (signature 0x7708f090)
+WARNING: A WEBPACK license was found.
+WARNING: Please use Xilinx License Configuration Manager to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+                  90@00003000: $ 0 <= 00000000
+                 110@00003004: $ 1 <= 00000001
+                 130@00003008: $ 2 <= 00000002
+                 150@0000300c: $ 3 <= 00000003
+                 170@00003010: $ 4 <= 00000004
+                 190@00003014: $ 5 <= 00000005
+                 210@00003018: $ 6 <= 00000006
+                 230@0000301c: $ 7 <= 00000007
+                 250@00003020: $ 8 <= 00000008
+                 270@00003024: $ 9 <= 00000009
+                 290@00003028: $10 <= 000a0000
+                 310@0000302c: $11 <= 0000000b
+                 330@00003030: $12 <= 0000000c
+                 350@00003034: $13 <= 0000000d
+                 370@00003038: $14 <= 0000000e
+                 390@0000303c: $15 <= 0000000f
+                 410@00003040: $16 <= 00000010
+                 430@00003044: $17 <= 00000011
+                 450@00003048: $18 <= 00000012
+                 470@0000304c: $19 <= 00000013
+                 490@00003050: $20 <= 00000014
+                 510@00003054: $21 <= 00000015
+                 530@00003058: $22 <= 00000016
+                 550@0000305c: $23 <= 00000017
+                 570@00003060: $24 <= 00000018
+                 590@00003064: $25 <= 00000019
+                 610@00003068: $26 <= 0000001a
+                 630@0000306c: $27 <= 0000001b
+                 650@00003070: $28 <= 001c0000
+                 670@00003074: $29 <= 0000001d
+                 690@00003078: $30 <= 0000001e
+                 710@0000307c: $31 <= 0000001f
+                 730@00003080: $ 9 <= 000a0009
+                 750@00003084: $ 9 <= 00000009
+                 770@00003088: $ 9 <= 00000008
+                 770@0000308c: *00000000 <= 00000008
+                 810@00003090: $ 9 <= 00000008
+                 830@00003094: $ 9 <= 0000000c
+                 830@00003098: *00000008 <= 0000000c
+                 850@0000309c: *00000010 <= 0000000c
+                 890@000030a0: $ 9 <= 00000004
+                 910@000030a4: $ 9 <= 0000000c
+                 950@000030a8: $ 9 <= 00000000
+# run 1.00us
+                1030@000030b0: $ 9 <= 00000008
+                1050@000030a4: $ 9 <= 00000000
+                1090@000030a8: $ 9 <= 00000008
+                1170@000030b0: $ 9 <= 00000010
+                1250@000030f0: $ 9 <= 000a0010
+                1270@000030f4: $11 <= ffffffff
+                1290@000030f8: $ 9 <= 000a1234
+                1310@000030fc: $31 <= 00003104
+                1330@00003100: $ 9 <= 000a4338
+                1390@000030d4: $31 <= 000030dc
+                1410@000030d8: $ 9 <= 000a7414
+                1430@000030e4: $ 9 <= fff5bcc8
+                1470@000030dc: *00000008 <= 000030dc
+                1510@000030e0: $ 8 <= 0000000c
+                1530@000030e4: $ 9 <= 000a7414
+                1570@000030dc: *0000000c <= 000030dc
+                1610@000030e0: $ 8 <= 00000010
+                1630@000030e4: $ 9 <= fff5bcc8
+                1670@000030dc: *00000010 <= 000030dc
+                1710@000030e0: $ 8 <= 00000014
+                1730@000030e4: $ 9 <= 000a7414
+                1770@000030dc: *00000014 <= 000030dc
+                1810@000030e0: $ 8 <= 00000018
+                1830@000030e4: $ 9 <= fff5bcc8
+                1870@000030dc: *00000018 <= 000030dc
+                1910@000030e0: $ 8 <= 0000001c
+                1930@000030e4: $ 9 <= 000a7414
+                1970@000030dc: *0000001c <= 000030dc
+# run 1.00us
+                2010@000030e0: $ 8 <= 00000020
+                2030@000030e4: $ 9 <= fff5bcc8
+                2070@000030dc: *00000020 <= 000030dc
+                2110@000030e0: $ 8 <= 00000024
+                2130@000030e4: $ 9 <= 000a7414
+                2170@000030dc: *00000024 <= 000030dc
+                2210@000030e0: $ 8 <= 00000028
+                2230@000030e4: $ 9 <= fff5bcc8
+                2270@000030dc: *00000028 <= 000030dc
+                2310@000030e0: $ 8 <= 0000002c
+                2330@000030e4: $ 9 <= 000a7414
+                2370@000030dc: *0000002c <= 000030dc
+                2410@000030e0: $ 8 <= 00000030
+                2430@000030e4: $ 9 <= fff5bcc8
+                2470@000030dc: *00000030 <= 000030dc
+                2510@000030e0: $ 8 <= 00000034
+                2530@000030e4: $ 9 <= 000a7414
+                2570@000030dc: *00000034 <= 000030dc
+                2610@000030e0: $ 8 <= 00000038
+                2630@000030e4: $ 9 <= fff5bcc8
+                2670@000030dc: *00000038 <= 000030dc
+                2710@000030e0: $ 8 <= 0000003c
+                2730@000030e4: $ 9 <= 000a7414
+                2770@000030dc: *0000003c <= 000030dc
+                2810@000030e0: $ 8 <= 00000040
+                2830@000030e4: $ 9 <= fff5bcc8
+                2870@000030dc: *00000040 <= 000030dc
+                2910@000030e0: $ 8 <= 00000044
+                2930@000030e4: $ 9 <= 000a7414
+                2970@000030dc: *00000044 <= 000030dc
+ISim P.20131013 (signature 0x7708f090)
+WARNING: A WEBPACK license was found.
+WARNING: Please use Xilinx License Configuration Manager to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+                  90@00003000: $28 <= 00000000
+                 110@00003004: $29 <= 00000000
+                 130@00003008: $ 1 <= 00001010
+                 150@0000300c: $10 <= 00000000
+                 150@00003010: *00000000 <= 00001010
+                 190@00003014: $ 2 <= 87230000
+                 210@00003018: $ 3 <= 00007856
+                 230@0000301c: $ 4 <= 85ff0000
+                 250@00003020: $ 5 <= 00000001
+                 270@00003024: $ 6 <= ffff0000
+                 290@00003028: $ 7 <= 0000ffff
+                 310@0000302c: $ 1 <= 87231010
+                 330@00003030: $ 9 <= 87238866
+                 350@00003034: $ 8 <= 00001010
+                 370@00003038: $ 0 <= 00000000
+                 570@00003068: $ 2 <= 0000000c
+                 650@00003078: $31 <= 00003080
+                 650@0000307c: *0000000c <= 87231010
+                 690@00003088: $ 1 <= 8723101c
+                 710@0000308c: $ 1 <= 87231028
+                 730@00003090: $ 1 <= 87231034
+                 730@00003094: *0000000c <= 00003080
+                 770@00003098: $ 1 <= 00003080
+                 850@000030ac: *0000000c <= 00003080
+                 910@00003084: $ 1 <= 0000308c
+# run 1.00us

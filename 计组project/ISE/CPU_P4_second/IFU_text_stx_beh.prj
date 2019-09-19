@@ -1,0 +1,5 @@
+verilog isim_temp "MUXPC.v"
+verilog isim_temp "IM.v"
+verilog isim_temp "IFU.v"
+verilog isim_temp "IFU_text.v"
+verilog isim_temp "C:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v"

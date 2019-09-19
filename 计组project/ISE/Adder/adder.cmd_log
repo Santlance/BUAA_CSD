@@ -1,0 +1,5 @@
+xst -intstyle ise -ifn "C:/Users/asus/Desktop/ISE/Adder/adder.xst" -ofn "C:/Users/asus/Desktop/ISE/Adder/adder.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc7a100t-csg324-3 adder.ngc adder.ngd  
+vhdtdtfi -lib work C:/Users/asus/Desktop/ISE/Adder/adder.v -lang verilog -prj Adder -o adder.spl -module adder -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family artix7 adder.spl C:/Users/asus/Desktop/ISE/Adder/adder.sym 
+vhdtdtfi -lang verilog -prj Adder -o C:/Users/asus/Desktop/ISE/Adder/adder.tfi -lib work C:/Users/asus/Desktop/ISE/Adder//adder.v -module adder -template C:/Xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="HDLCompiler" num="1670" delta="old" >"C:\Users\asus\Desktop\ISE\CPU_P4\IFU.v" Line 57: Signal &lt;<arg fmt="%s" index="1">IM</arg>&gt; in initial block is partially initialized.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"C:\Users\asus\Desktop\ISE\CPU_P4\control.v" Line 57: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">1</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"C:\Users\asus\Desktop\ISE\CPU_P4\control.v" Line 58: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">1</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"C:\Users\asus\Desktop\ISE\CPU_P4\control.v" Line 59: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">1</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"C:\Users\asus\Desktop\ISE\CPU_P4\control.v" Line 60: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">1</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"C:\Users\asus\Desktop\ISE\CPU_P4\control.v" Line 61: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">1</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"C:\Users\asus\Desktop\ISE\CPU_P4\control.v" Line 62: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">1</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"C:\Users\asus\Desktop\ISE\CPU_P4\control.v" Line 63: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">1</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"C:\Users\asus\Desktop\ISE\CPU_P4\control.v" Line 64: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">1</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"C:\Users\asus\Desktop\ISE\CPU_P4\control.v" Line 65: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">1</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"C:\Users\asus\Desktop\ISE\CPU_P4\control.v" Line 66: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">1</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"C:\Users\asus\Desktop\ISE\CPU_P4\control.v" Line 67: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">1</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"C:\Users\asus\Desktop\ISE\CPU_P4\control.v" Line 68: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">1</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"C:\Users\asus\Desktop\ISE\CPU_P4\control.v" Line 69: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">1</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"C:\Users\asus\Desktop\ISE\CPU_P4\control.v" Line 70: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">1</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"C:\Users\asus\Desktop\ISE\CPU_P4\control.v" Line 71: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">1</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"C:\Users\asus\Desktop\ISE\CPU_P4\control.v" Line 72: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">1</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"C:\Users\asus\Desktop\ISE\CPU_P4\control.v" Line 73: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">1</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"C:\Users\asus\Desktop\ISE\CPU_P4\control.v" Line 74: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">1</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"C:\Users\asus\Desktop\ISE\CPU_P4\control.v" Line 75: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">1</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"C:\Users\asus\Desktop\ISE\CPU_P4\control.v" Line 76: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">1</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"C:\Users\asus\Desktop\ISE\CPU_P4\control.v" Line 77: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">1</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"C:\Users\asus\Desktop\ISE\CPU_P4\control.v" Line 92: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">4</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"C:\Users\asus\Desktop\ISE\CPU_P4\ALU.v" Line 31: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">1</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"C:\Users\asus\Desktop\ISE\CPU_P4\ALU.v" Line 32: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">1</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"C:\Users\asus\Desktop\ISE\CPU_P4\ALU.v" Line 34: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">1</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"C:\Users\asus\Desktop\ISE\CPU_P4\MuxRegRd.v" Line 26: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">5</arg>-bit target.
+</msg>
+
+<msg type="warning" file="Xst" num="2972" delta="new" >&quot;<arg fmt="%s" index="1">C:\Users\asus\Desktop\ISE\CPU_P4\mips.v</arg>&quot; line <arg fmt="%d" index="2">47</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">ifu</arg>&gt; of block &lt;<arg fmt="%s" index="4">IFU</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">mips</arg>&gt;. Underlying logic will be removed.
+</msg>
+
+<msg type="warning" file="Xst" num="2972" delta="new" >&quot;<arg fmt="%s" index="1">C:\Users\asus\Desktop\ISE\CPU_P4\mips.v</arg>&quot; line <arg fmt="%d" index="2">62</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">controller</arg>&gt; of block &lt;<arg fmt="%s" index="4">control</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">mips</arg>&gt;. Underlying logic will be removed.
+</msg>
+
+<msg type="warning" file="Xst" num="2972" delta="new" >&quot;<arg fmt="%s" index="1">C:\Users\asus\Desktop\ISE\CPU_P4\mips.v</arg>&quot; line <arg fmt="%d" index="2">82</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">grf</arg>&gt; of block &lt;<arg fmt="%s" index="4">GRF</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">mips</arg>&gt;. Underlying logic will be removed.
+</msg>
+
+<msg type="warning" file="Xst" num="2972" delta="new" >&quot;<arg fmt="%s" index="1">C:\Users\asus\Desktop\ISE\CPU_P4\mips.v</arg>&quot; line <arg fmt="%d" index="2">96</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">ext</arg>&gt; of block &lt;<arg fmt="%s" index="4">EXT</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">mips</arg>&gt;. Underlying logic will be removed.
+</msg>
+
+<msg type="warning" file="Xst" num="2972" delta="new" >&quot;<arg fmt="%s" index="1">C:\Users\asus\Desktop\ISE\CPU_P4\mips.v</arg>&quot; line <arg fmt="%d" index="2">103</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">alu</arg>&gt; of block &lt;<arg fmt="%s" index="4">ALU</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">mips</arg>&gt;. Underlying logic will be removed.
+</msg>
+
+<msg type="warning" file="Xst" num="2972" delta="new" >&quot;<arg fmt="%s" index="1">C:\Users\asus\Desktop\ISE\CPU_P4\mips.v</arg>&quot; line <arg fmt="%d" index="2">114</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">dm</arg>&gt; of block &lt;<arg fmt="%s" index="4">DM</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">mips</arg>&gt;. Underlying logic will be removed.
+</msg>
+
+<msg type="warning" file="Xst" num="2972" delta="new" >&quot;<arg fmt="%s" index="1">C:\Users\asus\Desktop\ISE\CPU_P4\mips.v</arg>&quot; line <arg fmt="%d" index="2">125</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">muxregin</arg>&gt; of block &lt;<arg fmt="%s" index="4">MuxRegRd</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">mips</arg>&gt;. Underlying logic will be removed.
+</msg>
+
+<msg type="warning" file="Xst" num="2972" delta="new" >&quot;<arg fmt="%s" index="1">C:\Users\asus\Desktop\ISE\CPU_P4\mips.v</arg>&quot; line <arg fmt="%d" index="2">134</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">muxaluin</arg>&gt; of block &lt;<arg fmt="%s" index="4">MuxALUNum</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">mips</arg>&gt;. Underlying logic will be removed.
+</msg>
+
+<msg type="warning" file="Xst" num="2972" delta="new" >&quot;<arg fmt="%s" index="1">C:\Users\asus\Desktop\ISE\CPU_P4\mips.v</arg>&quot; line <arg fmt="%d" index="2">142</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">muxregdata</arg>&gt; of block &lt;<arg fmt="%s" index="4">MuxRegData</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">mips</arg>&gt;. Underlying logic will be removed.
+</msg>
+
+<msg type="warning" file="Xst" num="2972" delta="new" >&quot;<arg fmt="%s" index="1">C:\Users\asus\Desktop\ISE\CPU_P4\mips.v</arg>&quot; line <arg fmt="%d" index="2">152</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">mem_out</arg>&gt; of block &lt;<arg fmt="%s" index="4">MEMOUT</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">mips</arg>&gt;. Underlying logic will be removed.
+</msg>
+
+<msg type="warning" file="Xst" num="2972" delta="new" >&quot;<arg fmt="%s" index="1">C:\Users\asus\Desktop\ISE\CPU_P4\mips.v</arg>&quot; line <arg fmt="%d" index="2">160</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">mem_data</arg>&gt; of block &lt;<arg fmt="%s" index="4">MEMDATA</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">mips</arg>&gt;. Underlying logic will be removed.
+</msg>
+
+</messages>
+
